@@ -75,23 +75,23 @@ Walless PKU是北大校友搞出來的VPN伺服器，其用意是幫助北大學
 
 1.  前往Github下載Clash for Windows
 
-![](media/2.jpeg)
+![](media/2.jpg)
 
 1.  下載後解壓縮 (最好解壓到一個文件夾)
-2.  打開此程序![](media/3.jpeg)
+2.  打開此程序![](media/3.jpg)
 1.  打開Profiles，在方框內輸入
 
 https://github.com/macau-mcca/vpn/releases/download/mcca-vpn-setting/mcca.yml
 
-然後按下Download![](media/4.jpeg)
+然後按下Download![](media/4.jpg)
 
 1.  若成功，則會有下列的效果，VPN到這裡就安裝成功了
 
-![](media/5.jpeg)
+![](media/5.jpg)
 
 1.  若要打開VPN
 
-則打開General，將System Proxy打開即可![](media/6.jpeg)
+則打開General，將System Proxy打開即可![](media/6.jpg)
 
 # Mac (電腦)
 
@@ -101,11 +101,11 @@ https://github.com/macau-mcca/vpn/releases/download/mcca-vpn-setting/mcca.yml
 
 1.  打開，然後拖動至進右方的資料夾安裝
 
-    ![](media/8.jpeg)
+    ![](media/8.jpg)
 
 2.  找到ClashX並打開它
 
-    ![](media/9.jpeg)
+    ![](media/9.jpg)
 
 1.  在畫面右上方找到小貓咪，然後打開Config進行配置
 
@@ -131,7 +131,7 @@ Name可以隨意填寫，然後按OK
 
 1.  用一切方法得到 **Shadowrocket**，並下載和安裝
 
-    ![](media/14.jpeg)
+    ![](media/14.jpg)
 
     *\*需要錢*
 
@@ -142,14 +142,14 @@ Name可以隨意填寫，然後按OK
 
 https://github.com/macau-mcca/vpn/releases/download/mcca-vpn-setting/mcca.yml
 
-![](media/15.jpeg) *![](media/16.jpeg)![](media/17.jpeg)*
+![](media/15.jpg) *![](media/16.jpg)![](media/17.jpg)*
 
 *  
 *
 
 1.  完成後，要打開VPN，只需在每個不同的線路中，選上ms數最低的那個即可 (注意，不要選到ms數少於10的，極大機會用不了)，然後把連線打開即口 (第一次可能需要輸入密碼同意其修改手機的網絡設定)
 
-![](media/18.jpeg)
+![](media/18.jpg)
 
 (若要更新線路，只需點上圖中www.mcca.xyz右方的感嘆號，然後再按一下完成即可)
 
@@ -170,7 +170,7 @@ https://github.com/Kr328/ClashForAndroid/releases ![](media/19.png)
 1.  把xapk文件安裝好後打開
 2.  前往配置，按右上方加號，點選從URL導入
 
-    ![](media/20.jpeg) ![](media/21.jpeg) ![](media/22.jpeg)
+    ![](media/20.jpg) ![](media/21.jpg) ![](media/22.jpg)
 
 1.  名稱可以亂寫，URL寫
 
@@ -178,15 +178,15 @@ https://github.com/Kr328/ClashForAndroid/releases ![](media/19.png)
 
     自動更新建議為240分鐘，最後按右上方儲存
 
-    ![](media/23.jpeg)
+    ![](media/23.jpg)
 
 2.  按右邊的三點，然後按更新
 
-    ![](media/24.jpeg)
+    ![](media/24.jpg)
 
 1.  退回去目錄，按一下中間就能夠打開VPN了
 
-    ![](media/25.jpeg)
+    ![](media/25.jpg)
 
 # 其他程式的設定方法：
 
